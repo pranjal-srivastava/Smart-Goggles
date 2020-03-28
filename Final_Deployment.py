@@ -194,5 +194,6 @@ for frame in camera.capture_continuous(output,format="bgr",use_video_port=True):
                     object_recog()
                     
 
+			
             
     output.truncate(0);        
